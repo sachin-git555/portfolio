@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, sans-serif;
+}
+header{
+     text-align: center;
+     background-color: rgb(236, 234, 234);
+     padding: 10px;
+} 
+header img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+#bio{
+    background-color:rgb(208, 206, 206) ;
+    margin: 10px;
+    padding: 20px;
+    
+}
+ p{
+    padding: 5px;
+ }
+ #work{
+    background-color:rgb(213, 210, 210) ;
+    margin: 10px;
+    padding: 20px;
+
+ }
+ .project{
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
+    line-height: 100px;
+ }
+ h2{
+    padding: 10px;
+ }
+ footer{
+    text-align: center;
+     background-color: rgb(236, 234, 234);
+     padding: 10px;
+ }   
